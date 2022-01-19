@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AbhimanyuKapoor
-- 🌱 I’m currently learning Java
+- High School Student
+- 🌱 Currently learning Java
 
 <!---
 AbhimanyuKapoor/AbhimanyuKapoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
