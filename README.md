@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @AbhimanyuKapoor
-- High School Student
 - 🌱 Currently learning Java
