@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @AbhimanyuKapoor
-- 🌱 Currently learning Java
